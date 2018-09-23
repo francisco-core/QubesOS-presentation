@@ -1,5 +1,5 @@
 # Introduction to QubesOS
-This is a 5 minute intruduction to the mai ideas in QubesOS
+This is a 5 minute intruduction to the main ideas in the Qubes Operating System
 
 The [**presentation.md**](https://github.com/francisco-core/QubesOS-presentation/raw/master/presentation.md) MarkDown is written for [Marp](https://yhatt.github.io/marp/), and is best viewed as the PDF output [**presentation.pdf**](https://github.com/francisco-core/QubesOS-presentation/raw/master/presentation.pdf)
 

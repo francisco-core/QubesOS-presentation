@@ -5,5 +5,5 @@ The [**presentation.md**](https://github.com/francisco-core/QubesOS-presentation
 
 [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 
-Big thanks to the citizen-foss presentation by Yale Privacy Labs for the inspiration for the talk.
+Big thanks to the [citizen-foss presentation](https://github.com/YalePrivacyLab/citizen-foss) by Yale Privacy Labs for the inspiration for the talk.
 
